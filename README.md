@@ -1,5 +1,4 @@
 # Student Grade manager
-# Student Grade Manager
 
 ## Overview
 
